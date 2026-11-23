@@ -1,0 +1,4 @@
+opencv-python pillow
+retina-face[tensorflow]
+
+# use Python 3.13.16
